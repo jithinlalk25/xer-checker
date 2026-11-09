@@ -4,7 +4,7 @@ A small web app that reads Primavera P6 schedule exports (`.xer`), lists the row
 
 Everything runs in your browser. Files are never uploaded.
 
-**Live app:** _(link added after deploy)_
+**Live app:** [xer-checker.vercel.app](https://xer-checker.vercel.app)
 
 ## Sample files
 
