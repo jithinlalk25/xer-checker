@@ -1,0 +1,2 @@
+# Keep the sample P6 exports byte for byte, so their SHA-256 hashes stay valid.
+*.xer binary
